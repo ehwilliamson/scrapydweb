@@ -46,7 +46,7 @@ setup(
         "MarkupSafe==2.0.0",  # May 12, 2021
         "pexpect==4.7.0",  # Apr 7, 2019
         "ptyprocess==0.6.0",  # Jun 22, 2018
-        "pytz==2018.9",  # Jan 7, 2019
+        "pytz>=2018.9",  # Jan 7, 2019
         "requests>=2.21.0",  # Dec 10, 2018
         "setuptools>=40.6.3",  # Dec 11, 2018
         "six==1.16.0",  # May 5, 2021
