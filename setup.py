@@ -38,7 +38,7 @@ setup(
         "colorama==0.4.0",  # Oct 10, 2018
         "Flask~=2.0",  # May 12, 2021
         "Flask-Compress>=1.4.0",  # Jan 5, 2017
-        "Flask-SQLAlchemy==2.4.0",  # Apr 25, 2019
+        "Flask-SQLAlchemy>=2.4.0",  # Apr 25, 2019
         "idna==2.7",  # Jun 11, 2018
         "itsdangerous==2.0.0",  # May 12, 2021
         "Jinja2==3.0.0",  # May 12, 2021
@@ -50,7 +50,7 @@ setup(
         "requests>=2.21.0",  # Dec 10, 2018
         "setuptools>=40.6.3",  # Dec 11, 2018
         "six==1.16.0",  # May 5, 2021
-        "SQLAlchemy==1.3.24",  # Mar 31, 2021
+        "SQLAlchemy>=1.3.24",  # Mar 31, 2021
         "tzlocal==1.5.1",  # Dec 1, 2017
         "w3lib==2.0.0",  # Aug 11, 2022
         "Werkzeug==2.0.0",  # May 12, 2021
