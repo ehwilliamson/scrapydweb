@@ -34,7 +34,7 @@ setup(
     python_requires=">=3.6",
     install_requires=[
         "APScheduler==3.6.0",  # Mar 18, 2019
-        "click==7.1.2",  # Apr 28, 2020
+        "click>=7.1.2",  # Apr 28, 2020
         "colorama==0.4.0",  # Oct 10, 2018
         "Flask==2.0.0",  # May 12, 2021
         "Flask-Compress==1.4.0",  # Jan 5, 2017
